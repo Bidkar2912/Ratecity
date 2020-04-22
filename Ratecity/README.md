@@ -1,2 +1,0 @@
-# Ratecity
-Product Listing Page
